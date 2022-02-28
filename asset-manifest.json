@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-text-reader/static/css/main.064cffdc.css",
+    "main.js": "/react-text-reader/static/js/main.9110783b.js",
+    "static/js/787.44afedc0.chunk.js": "/react-text-reader/static/js/787.44afedc0.chunk.js",
+    "index.html": "/react-text-reader/index.html",
+    "main.064cffdc.css.map": "/react-text-reader/static/css/main.064cffdc.css.map",
+    "main.9110783b.js.map": "/react-text-reader/static/js/main.9110783b.js.map",
+    "787.44afedc0.chunk.js.map": "/react-text-reader/static/js/787.44afedc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064cffdc.css",
+    "static/js/main.9110783b.js"
+  ]
+}
